@@ -1,0 +1,29 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "jeffersbaxter",
+        "email": "jeffers@sermodigital.com"
+      },
+      "libraryName": {
+        "original": "form-builder",
+        "camelized": "formBuilder",
+        "dasherized": "form-builder",
+        "slugified": "form-builder",
+        "parts": [
+          "form",
+          "builder"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": true,
+      "includeAngularModuleCookies": true,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/form-builder",
+      "libraryUnitTestDirectory": "test/unit/form-builder",
+      "libraryUnitE2eDirectory": "test/e2e/form-builder"
+    }
+  }
+}
